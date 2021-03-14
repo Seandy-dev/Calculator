@@ -5,6 +5,10 @@ package za.ac.cput.calculator;
  * numerator
  * denominator
  */
+
+/**
+ * author Sindy
+ */
 public class Division {
     public static int integerDivision(int numerator, int denominator){
         if (denominator < 1) return 0;
